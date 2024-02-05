@@ -1,0 +1,6 @@
+import cn.hutool.core.io.resource.CharSequenceResource;
+public class FunctionUse3281 {
+public void funcUse() {
+CharSequenceResource charsequenceresource = new CharSequenceResource();
+}
+}
